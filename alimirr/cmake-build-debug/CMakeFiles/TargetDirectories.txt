@@ -1,3 +1,0 @@
-C:/Users/ABOL/Desktop/alimirr/cmake-build-debug/CMakeFiles/alimirr.dir
-C:/Users/ABOL/Desktop/alimirr/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ABOL/Desktop/alimirr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
